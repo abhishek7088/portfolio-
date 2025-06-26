@@ -38,8 +38,8 @@ export function Projects() {
         "A responsive portfolio website showcasing projects and skills, built with modern web technologies and optimized for performance.",
       technologies: ["Next.js", "React", "Tailwind CSS", "TypeScript"],
       image: "/pics/port.png",  // Use path from public folder
-      github: "#",
-      demo: "#",
+      github: "https://github.com/abhishek7088/portfolio-",
+      demo: "https://portfolio-seven-beta-32.vercel.app/",
     },
   ]
 
