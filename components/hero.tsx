@@ -29,7 +29,7 @@ export function Hero() {
               <Mail className="mr-2 h-5 w-5" />
               Get In Touch
             </Button>
-            <a href="https://drive.google.com/file/d/1J3BcHOOe2FDAbmrwX33UEreR9feFTJNL/view?usp=sharing" download>
+            <a href="https://docs.google.com/document/d/1MmsgyadKCmSe5jZrBErFEV6whiQKe2bN/edit?usp=sharing&ouid=113460495403319895129&rtpof=true&sd=true" download>
               <Button variant="outline" size="lg" className="text-lg px-8 bg-background text-foreground">
                 <Download className="mr-2 h-5 w-5" />
                 Download Resume
